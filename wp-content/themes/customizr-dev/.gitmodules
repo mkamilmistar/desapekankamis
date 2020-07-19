@@ -1,0 +1,3 @@
+[submodule "assets/front/js/libs/jquery-plugins"]
+  path = assets/front/js/libs/jquery-plugins
+  url = https://github.com/presscustomizr/front-jquery-plugins.git
